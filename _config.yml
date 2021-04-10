@@ -63,7 +63,7 @@ wikidata_id: # your wikidata id
 contact_note: >
   I try to be responsive on email! Please feel free to reach out for papers, any other information, or wanting to even just chat!
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-58475433-1 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
@@ -168,12 +168,12 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false
+enable_google_analytics:    true
 enable_panelbear_analytics: false
 enable_mansory:             true
 enable_math:                true
-enable_tooltips:            false
-enable_darkmode:            true
+enable_tooltips:            true
+enable_darkmode:            false
 enable_navbar_social:       false
 
 # -----------------------------------------------------------------------------
