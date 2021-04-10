@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a 6th year graduate student at the [University of Wisconsin-Madison](https://www.wisc.edu/) pursuing a Ph.D. in the Department of Curriculum & Instruction (in the [_Design, Informal, and Creative Education_ program](https://ci.education.wisc.edu/research/digital-media/), called Digital Media till 2019) All this while I've been advised by [Matthew Berland](https://ci.education.wisc.edu/fac-staff/berland-matthew/), and have currently (or in the recent past <d-footnote>Last updated April, 2021</d-footnote> ) recently and currently been working across projects with 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
