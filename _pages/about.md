@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Collaboration, Learning, Making, Games
+subtitle: Collaboration, Learning, Making, Games
 
 profile:
   align: right
@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 
 **Background**: I grew up in New Delhi (1994-2000 & 2004-2011) and Vishakhapatnam (those years in between), received a Bachelor's of Design from the [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/design/) (2011-2015), and then moved to graduate school 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
