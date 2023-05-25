@@ -13,14 +13,14 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 
-icon:  # the emoji used as the favicon
-iconImage:  # the emoji used as the favicon
-url:  # the base hostname & protocol for your site
+icon:  vkfav.png # the emoji used as the favicon
+iconImage: vkfav.png # the emoji used as the favicon
+url:  https://www.visheshk.net # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 keywords: collaboration, making, design, games, learning  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+# icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -64,8 +64,8 @@ github_username: Visheshk # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: visheshk # your Twitter handle
 linkedin_username: visheshk # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+scholar_userid: udPfphwAAAAJ # your Google Scholar ID
+orcid_id: 0000-0001-5097-7678 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -81,15 +81,15 @@ contact_note: >
   I try to be responsive on email! Please feel free to reach out for papers, any other information, or wanting to even just chat!
 
 panelbear_analytics:  # panelbear analytics site ID
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_analytics: UA-58475433-1 # your google-analytics ID (format: UA-XXXXXXXXX)
+google_site_verification:  google-site-verification=Ny_h4ylsHbCM51T6sUfUtAeJ_IWBvw_AKxKGFoB6g08 # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: my blog  # your blog must have a name for it to show up in the nav bar
+# blog_name: # your blog must have a name for it to show up in the nav bar
 blog_description: projects, progress, and other thoughts
 permalink: /blog/:year/:title/
 
@@ -269,9 +269,9 @@ jekyll-diagrams:
 
 
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
+enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
