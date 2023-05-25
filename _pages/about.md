@@ -7,6 +7,7 @@ subtitle: Collaboration, Learning, Making, Games
 profile:
   align: right
   image: pp2.jpg
+  image_circular: false
   address: >
     Chicago, IL, USA
 
